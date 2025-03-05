@@ -1,0 +1,11 @@
+
+
+Welcome to the chatbot. Type 'exit' to end the conversation.
+You: hello
+Chatbot: Hi there!
+You: How are you?
+Chatbot: I'm not sure how to respond to that.
+You: bye
+Chatbot: Goodbye!
+You: exit
+Chatbot: Goodbye!
